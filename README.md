@@ -9,7 +9,7 @@ I’m a recent graduate in Business Mathematics with expertise in data analysis,
 - Areas of Interest: Data Visualization, Machine Learning, Time Series Forecasting  
 
 🚀 **Highlighted Projects:**  
-1. **[Stock Price Prediction Using LSTM](https://github.com/username/stock-price-prediction):**  
+1. **[Stock Price Prediction Using LSTM]((https://github.com/ArtDz12/Paydot/blob/main/LSTM_(yang_bener).ipynb)):**  
    Predicting stock prices with an optimized LSTM model. Achieved 92% accuracy with minimal RMSE.  
 
 2. **[Personal Portfolio Website](https://your-portfolio-link.com):**  
