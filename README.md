@@ -20,6 +20,6 @@ I’m a recent graduate in Business Mathematics with expertise in data analysis,
 
 📫 **Let's Connect:**  
 - LinkedIn: (https://www.linkedin.com/in/daudpadutaritiran/)  
-- Email:Daudpadot@gmail.com 
+- Email: Daudpadot@gmail.com 
 
 ---
