@@ -9,7 +9,8 @@ applying my knowledge effectively and growing into a valuable asset for the orga
 💻 **Skills:**  
 - Programming: Python, R, SQL  
 - Tools: TensorFlow, Pandas, Matplotlib, Power BI  
-- Areas of Interest: Data Visualization, Machine Learning, Time Series Forecasting, Data Analys 
+- Areas of Interest: Data Visualization, Machine Learning, Time Series Forecasting, Data Analys
+  
 📫 **Let's Connect:**  
 - LinkedIn: (https://www.linkedin.com/in/daudpadutaritiran/)  
 - Email: Daudpadot@gmail.com 
